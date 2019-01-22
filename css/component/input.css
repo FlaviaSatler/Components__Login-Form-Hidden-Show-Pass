@@ -1,0 +1,7 @@
+.input{
+    border-bottom: 1px solid #00cec9;
+}
+
+.input:not(:last-of-type){
+    margin-bottom: 30px;
+}
